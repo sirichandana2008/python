@@ -1,0 +1,6 @@
+python
+
+value = 12
+while value <= 56:
+    print(value)
+    value += 2
